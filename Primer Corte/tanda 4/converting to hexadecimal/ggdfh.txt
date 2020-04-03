@@ -1,0 +1,5 @@
+https://www.life2coding.com/uri-online-judge-solution-1957-converting-to-hexadecimal-beginner-problem/
+
+https://github.com/ThiagoNunesBatista/uri-online-judge-solutions/blob/master/c/1957.c
+
+http://codespathshala.blogspot.com/2017/07/uri-problem-1957-solution-in-c.html
