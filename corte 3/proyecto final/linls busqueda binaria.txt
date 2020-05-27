@@ -1,0 +1,18 @@
+https://runestone.academy/runestone/static/pythoned/SortSearch/LaBusquedaBinaria.html
+
+
+https://uniwebsidad.com/libros/algoritmos-python/capitulo-8/busqueda-binaria
+
+
+https://es.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithmshttps://es.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms
+
+https://parzibyte.me/blog/2018/11/08/algoritmo-busqueda-binaria-lenguajes-programacion/
+
+
+https://es.qwe.wiki/wiki/Divide_and_conquer_algorithm#Divide_and_conquer
+_________________________________________________________________
+https://mapecode.com/busqueda-binaria-en-python/
+
+https://mapecode.com/busqueda-binaria-en-python/ (explicativo)
+
+https://www.youtube.com/watch?v=PA54cyycix8
